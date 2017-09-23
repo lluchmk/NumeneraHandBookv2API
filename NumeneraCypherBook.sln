@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumeneraCypherBook.Api", "NumeneraCypherBook.Api\NumeneraCypherBook.Api.csproj", "{26D8D0B7-CEE8-4566-A2B1-16464D441D02}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumeneraCypherBook.Core", "NumeneraCypherBook.Core\NumeneraCypherBook.Core.csproj", "{3B0DE237-8F9A-492A-A2D0-5A8A9619BD3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumeneraCypherBook.TestsX", "NumeneraCypherBook.TestsX\NumeneraCypherBook.TestsX.csproj", "{671FCF26-3138-4E3A-AD7A-AFB4E1F643B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26D8D0B7-CEE8-4566-A2B1-16464D441D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D8D0B7-CEE8-4566-A2B1-16464D441D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D8D0B7-CEE8-4566-A2B1-16464D441D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D8D0B7-CEE8-4566-A2B1-16464D441D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B0DE237-8F9A-492A-A2D0-5A8A9619BD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B0DE237-8F9A-492A-A2D0-5A8A9619BD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B0DE237-8F9A-492A-A2D0-5A8A9619BD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B0DE237-8F9A-492A-A2D0-5A8A9619BD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671FCF26-3138-4E3A-AD7A-AFB4E1F643B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671FCF26-3138-4E3A-AD7A-AFB4E1F643B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671FCF26-3138-4E3A-AD7A-AFB4E1F643B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671FCF26-3138-4E3A-AD7A-AFB4E1F643B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4D3C55D-874C-4251-AD95-25F64663F0A1}
+	EndGlobalSection
+EndGlobal
